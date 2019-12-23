@@ -1,6 +1,6 @@
 ## Background 
 The `Jupyter Notebook` contains the climate analysis for precipitation and temperature in Honolulu, HI from 08-23-2016 to 08-23-2017 (last twelve months of data). It also looks at specific trip dates from 02-28-2017 to 03-05-2017 to model the climate temperature normals and precipitation based on historical weather data.
-Once an initial analysis is completed, a Flask API based on the queries that have been developed is designed.
+Once an initial analysis is completed, a Flask API based on the queries that have been developed is designed. 
  
 `Flask API Application` is included to query:
 - Precipitations from last year  
