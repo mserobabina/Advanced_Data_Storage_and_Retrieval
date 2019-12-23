@@ -5,7 +5,7 @@ Once an initial analysis is completed, a Flask API based on the queries that hav
 
 Flask API Application is included to query:
 - Precipitations from last year 
-- Weather stations
+- Weather stations 
 - Temperature Observations (tobs) for the previous year 
 - Minimum temperature, the average temperature, and the max temperature for a given start and/or start-end range inclusive.
 ## Dataset Information
