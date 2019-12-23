@@ -21,4 +21,6 @@ Once an initial analysis is completed, a Flask API based on the queries that hav
 
 ![Image](https://github.com/mserobabina/Advanced_Data_Storage_and_Retrieval/blob/master/DataStorage/Images/Observation_Histogram.png)
 ## Trip Climate Analysis
+
+![Image](https://github.com/mserobabina/Advanced_Data_Storage_and_Retrieval/blob/master/DataStorage/Images/TripAvgTemp.png)
 ![Image](https://github.com/mserobabina/Advanced_Data_Storage_and_Retrieval/blob/master/DataStorage/Images/DailyNormals.png)
