@@ -1,15 +1,15 @@
 ## Background 
-The Jupyter Notebook contains the climate analysis for precipitation and temperature in Honolulu, HI from 08-23-2016 to 08-23-2017 (last twelve months of data). It also looks at specific trip dates from 02-28-2017 to 03-05-2017 to model the climate temperature normals and precipitation based on historical weather data.
+The `Jupyter Notebook` contains the climate analysis for precipitation and temperature in Honolulu, HI from 08-23-2016 to 08-23-2017 (last twelve months of data). It also looks at specific trip dates from 02-28-2017 to 03-05-2017 to model the climate temperature normals and precipitation based on historical weather data.
 Once an initial analysis is completed, a Flask API based on the queries that have been developed is designed.
  
-Flask API Application is included to query:
+`Flask API Application` is included to query:
 - Precipitations from last year  
 - Weather stations 
 - Temperature Observations (tobs) for the previous year 
 - Minimum temperature, the average temperature, and the max temperature for a given start and/or start-end range inclusive.
 ## Dataset Information
 - Dataset date range from 01-01-2010 to 08-23-2017
-- SQLite Database Schema:
+- `SQLite Database` Schema:
 ![Image](https://github.com/mserobabina/Advanced_Data_Storage_and_Retrieval/blob/master/schema.PNG)
 ## Observable Trends
 - Honolulu, Hawaii had up to 7 inches of rain in last twelve months. Months with more than 3 inches of rain include: September, October, February, April, and July
